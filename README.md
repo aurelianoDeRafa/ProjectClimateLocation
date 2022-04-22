@@ -6,7 +6,7 @@
 
 ---
 ## Sobre
-**Projeto Clima** Esse projeto mostra os climas da cidades que for pesquisadas no campo de busca. As informações mostradas são, temperatura, vento, a direção do vento e um icon para mostrar a contições do tempo, como dublado, sol...
+**Projeto Clima** Esse projeto mostra os climas da cidades que for pesquisadas no campo de busca. As informações mostradas são, temperatura, vento, a direção do vento e um icon para mostrar a contições do tempo, como nublado, sol...
 <br/>
 Quando o usuário acessar o site, o site vai pedi um permisão para acessar a localização do usuário para mostrar as informação da cidade que ele se encontra.
 
